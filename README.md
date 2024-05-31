@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Samarth+Bansal!;+from+Bharat+🙏" />
 </h1>
 
-<h3 align="center">A Coder & A Data Science with ML Learner</h3>
+<h3 align="center">A Self-Proclaimed Problem Solver who is trying to solve a problem</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **an AI app**
+ 🔭 I’m currently building **an app**
  
- 🌱 I’m currently learning **Docker, Kivy, ML**
+ 🌱 I’m currently learning **Flutter, Firebase, and more**
 
-💬 Ask me about **Python, Flask, Docker... or anything**
+💬 Solved over **300 problems in LeetCode**
 
 ⚡ Fun fact **: Coders are like wizards; they turn coffee into code**
 
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,r" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,mongodb,c,c++,java,mysql,flask" /><br>
 </div>
 
 <br/>
