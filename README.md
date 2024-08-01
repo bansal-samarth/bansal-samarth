@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Flutter, Firebase, and more**
 
-💬 Solved over **300 problems in LeetCode**
+💬 Solved over **350 problems in LeetCode**
 
 ⚡ Fun fact **: Coders are like wizards; they turn coffee into code**
 
