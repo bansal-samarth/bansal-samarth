@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Samarth+Bansal!;+from+Bharat+🙏" />
 </h1>
 
-<h3 align="center">A Self-Proclaimed Problem Solver who is trying to solve a problem</h3>
+<h3 align="center">A Self-Proclaimed Problem Solver who is trying to solve new problems</h3>
 
 <br/>
 
@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Flutter, Firebase, and more**
 
-💬 Solved over **350 problems in LeetCode**
+💬 Solved over **400 problems in LeetCode**
 
 ⚡ Fun fact **: Coders are like wizards; they turn coffee into code**
 
