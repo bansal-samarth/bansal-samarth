@@ -128,7 +128,7 @@ I'm a Computer Science student at Bennett University with a passion for creating
   <a href="https://leetcode.com/u/samarthbansal" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/worksamarr4t9" target="_blank">
+  <a href="https://auth.geeksforgeeks.org/user/samarthbansal" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks" />
   </a>
   <a href="https://samarthbansal.vercel.app/" target="_blank">
