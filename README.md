@@ -112,9 +112,6 @@ I'm a Computer Science student at Bennett University with a passion for creating
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bansal-samarth&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Samarth's Most Used Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bansal-samarth&theme=nord&column=7&no-frame=true" alt="Trophy" />
-</div>
 
 ## 🤝 Connect With Me
 
