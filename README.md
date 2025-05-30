@@ -15,10 +15,10 @@
 ```javascript
 const samarth = {
   education: "Computer Science @ Bennett University",
-  passion: ["Mobile Development", "Deep Learning", "Competitive Coding"],
-  currentlyWorking: "Professional Portfolio Website",
-  currentlyLearning: ["Flutter", "AWS", "Advanced ML Architectures"],
-  accomplished: "600+ DSA Problems Solved",
+  passion: ["Full-Stack Development", "GenAI", "Competitive Coding"],
+  currentlyWorking: "Software Development Intern @ FRKR Global LLP",
+  currentlyLearning: ["Nuxt.js", "PostHog", "GTM"],
+  accomplished: "700+ DSA Problems Solved",
   achievement: "Patent-Pending Video-Audio Synchronization Algorithm",
   funFact: "I turn caffeine into code, and problems into opportunities"
 };
@@ -30,69 +30,85 @@ I believe in building technology that makes a difference
 # 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td>
-      <h3>
-        <a href="https://play.google.com/store/apps/details?id=com.samarth.comp">
-          <img src="https://img.shields.io/badge/-Contestify-6E48AA?style=flat-square&logo=android" width="100" />
-        </a>
-      </h3>
-      <ul>
-        <li>Comprehensive CP hub integrating 20+ platforms</li>
-        <li>Achieved 80% reduction in data retrieval latency</li>
-        <li>100+ downloads with 4.8/5 rating</li>
-        <li><code>Flutter</code> <code>Firebase</code> <code>REST APIs</code> <code>Figma</code></li>
-      </ul>
-      <a href="https://play.google.com/store/apps/details?id=com.samarth.comp">
-        <img src="https://img.shields.io/badge/Google_Play-Available-success?style=for-the-badge&logo=google-play&logoColor=white" />
-      </a>
-    </td>
-    <td>
-      <h3>
-        <a href="https://github.com/bansal-samarth/Adhyayan">
-          <img src="https://img.shields.io/badge/-Adhyayan-6E48AA?style=flat-square&logo=github" width="100" />
-        </a>
-      </h3>
-      <ul>
-        <li>Selected for Smart India Hackathon</li>
-        <li>Live virtual classroom with LLaMA-3 powered query engine</li>
-        <li>40% performance improvement with 99.9% uptime</li>
-        <li><code>Flutter</code> <code>AWS</code> <code>LLaMA-3</code> <code>Zego RTC</code></li>
-      </ul>
-      <a href="https://github.com/bansal-samarth/Adhyayan">
-        <img src="https://img.shields.io/badge/Code-View%20Repository-informational?style=for-the-badge&logo=github&color=6e5494" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>
-        <img src="https://img.shields.io/badge/-Reel_Ready-6E48AA?style=flat-square&logo=adobe" width="100" />
-      </h3>
-      <ul>
-        <li>Patent-pending video-audio synchronization system</li>
-        <li>Reduced editing time by 82.86%</li>
-        <li>Innovative beat detection algorithm for professional synchronization</li>
-        <li><code>Python</code> <code>CV2</code> <code>Moviepy</code> <code>Librosa</code></li>
-      </ul>
-    </td>
-    <td>
-      <h3>
-        <a href="https://github.com/anuj1o0/Satellite-image-classification">
-          <img src="https://img.shields.io/badge/-Satellite_Image_Classification-6E48AA?style=flat-square&logo=tensorflow" width="270" />
-        </a>
-      </h3>
-      <ul>
-        <li>Comparative study of CNN architectures</li>
-        <li>Hybrid CNN model (EfficientNetV2 + MobileNet)</li>
-        <li>Improved classification efficiency by 6.5% with 96.5% accuracy</li>
-        <li><code>CNN</code> <code>TensorFlow</code> <code>EuroSAT</code></li>
-      </ul>
-      <a href="https://github.com/anuj1o0/Satellite-image-classification">
-        <img src="https://img.shields.io/badge/Code-View%20Repository-informational?style=for-the-badge&logo=github&color=6e5494" />
-      </a>
-    </td>
-  </tr>
+    <tr>
+        <td>
+            <h3>
+                <a href="https://play.google.com/store/apps/details?id=com.samarth.comp">
+                    <img src="https://img.shields.io/badge/-Contestify-6E48AA?style=flat-square&logo=android" width="100" />
+                </a>
+            </h3>
+            <ul>
+                <li>Comprehensive CP hub integrating 20+ platforms</li>
+                <li>Achieved 80% reduction in data retrieval latency</li>
+                <li>100+ downloads with 4.8/5 rating</li>
+                <li><code>Flutter</code> <code>Firebase</code> <code>REST APIs</code> <code>Figma</code></li>
+            </ul>
+            <div class="badge-container">
+                <a href="https://play.google.com/store/apps/details?id=com.samarth.comp">
+                    <img src="https://img.shields.io/badge/Google_Play-Available-success?style=for-the-badge&logo=google-play&logoColor=white" />
+                </a>
+            </div>
+        </td>
+        <td>
+            <h3>
+                <a href="https://github.com/bansal-samarth/Adhyayan">
+                    <img src="https://img.shields.io/badge/-Adhyayan-6E48AA?style=flat-square&logo=github" width="100" />
+                </a>
+            </h3>
+            <ul>
+                <li>Selected for Smart India Hackathon</li>
+                <li>Live virtual classroom with LLaMA-3 powered query engine</li>
+                <li>40% performance improvement with 99.9% uptime</li>
+                <li><code>Flutter</code> <code>AWS</code> <code>LLaMA-3</code> <code>Zego RTC</code></li>
+            </ul>
+            <div class="badge-container">
+                <a href="https://github.com/bansal-samarth/Adhyayan">
+                    <img src="https://img.shields.io/badge/Code-View%20Repository-informational?style=for-the-badge&logo=github&color=6e5494" />
+                </a>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h3>
+                <a href="https://leetbot.vercel.app/">
+                    <img src="https://img.shields.io/badge/-LeetBot-6E48AA?style=flat-square&logo=react" width="100" />
+                </a>
+            </h3>
+            <ul>
+                <li>GenAI-powered coding assistant with FastAPI and Groq LLaMA 3</li>
+                <li>40% performance boost with sub-0.3 second response times</li>
+                <li>Handles 10K+ requests/hour with 99.9% uptime</li>
+                <li><code>React</code> <code>FastAPI</code> <code>LLaMA 3</code> <code>Groq</code></li>
+            </ul>
+            <div class="badge-container">
+                <a href="https://leetbot.vercel.app/">
+                    <img src="https://img.shields.io/badge/Live_Demo-View%20App-success?style=for-the-badge&logo=vercel&logoColor=white" />
+                </a>
+                <a href="https://github.com/bansal-samarth/LeetBot">
+                    <img src="https://img.shields.io/badge/Code-View%20Repository-informational?style=for-the-badge&logo=github&color=6e5494" />
+                </a>
+            </div>
+        </td>
+        <td>
+            <h3>
+                <a href="https://github.com/bansal-samarth/GuestFlow">
+                    <img src="https://img.shields.io/badge/-GuestFlow-6E48AA?style=flat-square&logo=node.js" width="100" />
+                </a>
+            </h3>
+            <ul>
+                <li>Comprehensive guest management and tracking system</li>
+                <li>Real-time visitor analytics and notification system</li>
+                <li>Streamlined check-in/check-out process with digital records</li>
+                <li><code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>React</code></li>
+            </ul>
+            <div class="badge-container">
+                <a href="https://github.com/bansal-samarth/GuestFlow">
+                    <img src="https://img.shields.io/badge/Code-View%20Repository-informational?style=for-the-badge&logo=github&color=6e5494" />
+                </a>
+            </div>
+        </td>
+    </tr>
 </table>
 
 <!-- TECH STACK SECTION -->
